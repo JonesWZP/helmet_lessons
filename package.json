@@ -5,7 +5,8 @@
 	"main": "server.js",
 	"scripts": {
 		"start": "node myApp.js",
-		"build": "node myApp.js"
+		"build": "node myApp.js",
+		"express":"node myApp.js"
 	},
 	"dependencies": {
 		"build": "^0.1.4",
